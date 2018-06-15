@@ -1,0 +1,23 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: ['*']
+spring:
+  profiles:
+    active: configserver
+  application:
+    name: configserver
+  config:
+    name: ${spring.application.name}
+  cloud:
+    config:
+      server:
+        prefix: config
+        bootstrap: true
+        git:
+          uri: https://github.com/leandropalermo/sample-microservices-configuration
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8011/eureka/
