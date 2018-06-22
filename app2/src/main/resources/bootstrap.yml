@@ -1,0 +1,19 @@
+---
+spring:
+  profiles:
+    active: app2
+  application:
+    name: app2
+  cloud:
+    config:
+      enabled: true
+      label: master
+      discovery:
+        enabled: true
+        serviceId: cloudconfig
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8011/eureka/
+server:
+  port: ${PORT:${SERVER_PORT:0}}

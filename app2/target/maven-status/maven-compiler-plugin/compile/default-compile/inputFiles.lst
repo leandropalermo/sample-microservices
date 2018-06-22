@@ -1,0 +1,6 @@
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/App2Application.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/service/impl/App2ServiceImpl.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/service/App2Service.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/feign/App2Feign.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/dto/App2InformationDTO.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app2/src/main/java/com/sample/microservice/app2/controller/App2Controller.java

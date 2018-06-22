@@ -1,0 +1,10 @@
+com/sample/microservice/app1/converter/App1PropertiesToApp1InformationDTOConverter.class
+com/sample/microservice/app1/service/App1InformationService.class
+com/sample/microservice/app1/controller/App1Controller.class
+com/sample/microservice/app1/properties/App1Properties.class
+com/sample/microservice/app1/App1Application.class
+com/sample/microservice/app1/dto/App1InformationDTO$App1InformationDTOBuilder.class
+com/sample/microservice/app1/config/EurekaConfiguration.class
+com/sample/microservice/app1/config/PropertiesConfiguration.class
+com/sample/microservice/app1/service/impl/App1InformationServiceImpl.class
+com/sample/microservice/app1/dto/App1InformationDTO.class

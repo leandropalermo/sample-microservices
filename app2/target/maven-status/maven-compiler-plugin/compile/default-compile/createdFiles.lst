@@ -1,0 +1,6 @@
+com/sample/microservice/app2/service/App2Service.class
+com/sample/microservice/app2/dto/App2InformationDTO.class
+com/sample/microservice/app2/feign/App2Feign.class
+com/sample/microservice/app2/service/impl/App2ServiceImpl.class
+com/sample/microservice/app2/controller/App2Controller.class
+com/sample/microservice/app2/App2Application.class

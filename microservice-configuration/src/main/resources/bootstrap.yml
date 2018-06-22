@@ -5,15 +5,15 @@ management:
         include: ['*']
 spring:
   profiles:
-    active: configserver
+    active: cloudconfig
   application:
-    name: configserver
+    name: cloudconfig
   config:
     name: ${spring.application.name}
   cloud:
     config:
       server:
-        prefix: config
+        prefix: properties
         bootstrap: true
         git:
           uri: https://github.com/leandropalermo/sample-microservices-configuration

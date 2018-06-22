@@ -1,0 +1,9 @@
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/App1Application.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/service/impl/App1InformationServiceImpl.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/properties/App1Properties.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/dto/App1InformationDTO.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/controller/App1Controller.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/config/EurekaConfiguration.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/converter/App1PropertiesToApp1InformationDTOConverter.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/config/PropertiesConfiguration.java
+/home/lpalermo/Documentos/workspace/samplemicroservice/app1/src/main/java/com/sample/microservice/app1/service/App1InformationService.java
