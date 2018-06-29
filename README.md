@@ -6,28 +6,28 @@
 
    A sample microservice using spring-boot and spring-cloud. 
    
-   In this project there are four "applications": 
+   In this project there are four applications: 
 
 - EurekaApplication. This application is the Server Discovery of this sample microservice, which all the other 
 applications are going to connect with. The path to connect with the server is "http://localhost:8011"
 
-- CloudConfigApplication. This application is the  Server Configuration, it is connected with a Github project, that 
-inside of this project has configuration's file from the other application servers.
+- CloudConfigApplication. This application is the  Server Configuration, it is connected with a Github project, 
+which contains configuration file from the other application servers.
 
-- App1Application - This application has a controller that returns a simple response which the values of the response
-are in his application.yml file.
+- App1Application - This application has a controller that returns a simple response, whose values are 
+in its application.yml file.
 
-- App2Aplication - This application has a controller which by feign call the App1Application controller and return his 
-response.
+- App2Aplication - This application has a controller which by feign call the App1Application controller and returns
+its response.
 
-This program was created in the hope that could explain how to create a microservice using Java, Spring Boot and 
+This program was created hoping that it can explain how to create a microservice using Java, Spring Boot and 
 Spring Cloud Netflix. There are a lot of other tools that could be used to create or to improve this program, but that
-is not the goal. The goal it to show how to create a basic microservice for who wants to learn how to develope a simple
-microservice.
+is not the goal. The goal is to show how to create a basic microservice for those who want to learn 
+how to develope a simple microservice.
 
 ================================================================================================
 
-### Prerequisities
+### Prerequisites
 
 Required software components to run the program:
 
@@ -38,7 +38,7 @@ Required software components to run the program:
 
 ### Building
 
-#####Install the softwares prerequirieds.
+#####Install the softwares prerequired.
 
    - Install the JDK 8 and MVN correctly and set the required environment variables of both softwares.
 
@@ -46,11 +46,11 @@ Required software components to run the program:
 
    - Inside the "samplemicroservice" folder has a .pom file. Get into this folder and type the command 'mvn clear install".
      
-   - This is a maven command that does the maven download all the library necessary to run the program (you need to be 
-    connected in the internet to it works).
+   - This is a maven command that make the maven download all the library necessary to run the program (you need to be 
+    connected on the internet in order to work).
     
-   - After executed the mvn command and successful, should have created a folder named "target" in every application. 
-        Inside of the folder will have created a ".jar" file.
+   - After successfully executing the mvn command, it should have created a folder named "target" in every application. 
+        Inside the folder there will be a ".jar" file.
     
 ##### Expected Output
     
