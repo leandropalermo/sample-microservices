@@ -38,11 +38,11 @@ Required software components to run the program:
 
 ### Building
 
-#####Install the softwares prerequired.
+##### Install the softwares prerequired.
 
    - Install the JDK 8 and MVN correctly and set the required environment variables of both softwares.
 
-#####Build the application
+##### Build the application
 
    - Inside the "samplemicroservice" folder has a .pom file. Get into this folder and type the command 'mvn clear install".
      

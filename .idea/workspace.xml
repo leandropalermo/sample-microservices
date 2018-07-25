@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160f8b73-e57f-4d97-b2b8-1252a63db4a6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="160f8b73-e57f-4d97-b2b8-1252a63db4a6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservice-configuration/target/" />
@@ -102,8 +99,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="405">
-                <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+              <first_editor relative-caret-position="339">
+                <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -384,12 +381,12 @@
       <workItem from="1529428266946" duration="593000" />
       <workItem from="1529432501025" duration="23411000" />
       <workItem from="1529590236536" duration="38019000" />
-      <workItem from="1529952330796" duration="10510000" />
+      <workItem from="1529952330796" duration="11193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111059000" />
+    <option name="totallyTimeSpent" value="111742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,7 +399,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
@@ -414,9 +410,9 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3284553" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31382114" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.3284553" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3284553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3284553" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2969697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2969697" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -836,8 +832,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="405">
-            <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+          <first_editor relative-caret-position="339">
+            <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
