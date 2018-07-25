@@ -73,7 +73,7 @@ Required software components to run the program:
 
 ================================================================================================
 
-###Running the applicatin
+### Running the applicatin
    
    To run the application, type the command "java -jar <jar's file name>". To not occur any error, execute the command in this order:
    
